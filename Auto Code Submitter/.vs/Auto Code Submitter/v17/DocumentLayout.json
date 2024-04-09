@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Auto Code Submitter\\Auto Code Submitter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|solutionrelative:Auto Code Submitter\\Auto Code Submitter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\SystemOptGetter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|solutionrelative:Auto Code Submitter\\SystemOptGetter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\FileWatcher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|solutionrelative:Auto Code Submitter\\FileWatcher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\FileWatcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|solutionrelative:Auto Code Submitter\\FileWatcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\WordEnter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|solutionrelative:Auto Code Submitter\\WordEnter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\WordEnter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|solutionrelative:Auto Code Submitter\\WordEnter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\SystemOptGetter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|solutionrelative:Auto Code Submitter\\SystemOptGetter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\FileSearcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|solutionrelative:Auto Code Submitter\\FileSearcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\FileSearcher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74936F03-4802-4F26-B879-4F4C81A44206}|Auto Code Submitter\\Auto Code Submitter.vcxproj|solutionrelative:Auto Code Submitter\\FileSearcher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auto Code Submitter.cpp",
+              "DocumentMoniker": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter.cpp",
+              "RelativeDocumentMoniker": "Auto Code Submitter\\Auto Code Submitter.cpp",
+              "ToolTip": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter.cpp",
+              "RelativeToolTip": "Auto Code Submitter\\Auto Code Submitter.cpp",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAxwM8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T11:10:20.587Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "xstring",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
+              "ViewState": "AQIAAPsBAAAAAAAAAAAMwAQCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-08T13:55:52.024Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WordEnter.cpp",
+              "DocumentMoniker": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\WordEnter.cpp",
+              "RelativeDocumentMoniker": "Auto Code Submitter\\WordEnter.cpp",
+              "ToolTip": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\WordEnter.cpp",
+              "RelativeToolTip": "Auto Code Submitter\\WordEnter.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAnwC8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T02:38:45.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WordEnter.h",
+              "DocumentMoniker": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\WordEnter.h",
+              "RelativeDocumentMoniker": "Auto Code Submitter\\WordEnter.h",
+              "ToolTip": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\WordEnter.h",
+              "RelativeToolTip": "Auto Code Submitter\\WordEnter.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-17T11:24:30.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SystemOptGetter.cpp",
+              "DocumentMoniker": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\SystemOptGetter.cpp",
+              "RelativeDocumentMoniker": "Auto Code Submitter\\SystemOptGetter.cpp",
+              "ToolTip": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\SystemOptGetter.cpp",
+              "RelativeToolTip": "Auto Code Submitter\\SystemOptGetter.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-04T15:09:14.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SystemOptGetter.h",
+              "DocumentMoniker": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\SystemOptGetter.h",
+              "RelativeDocumentMoniker": "Auto Code Submitter\\SystemOptGetter.h",
+              "ToolTip": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\SystemOptGetter.h",
+              "RelativeToolTip": "Auto Code Submitter\\SystemOptGetter.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-04T15:03:01.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileWatcher.cpp",
+              "DocumentMoniker": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\FileWatcher.cpp",
+              "RelativeDocumentMoniker": "Auto Code Submitter\\FileWatcher.cpp",
+              "ToolTip": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\FileWatcher.cpp",
+              "RelativeToolTip": "Auto Code Submitter\\FileWatcher.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T12:49:20.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileWatcher.h",
+              "DocumentMoniker": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\FileWatcher.h",
+              "RelativeDocumentMoniker": "Auto Code Submitter\\FileWatcher.h",
+              "ToolTip": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\FileWatcher.h",
+              "RelativeToolTip": "Auto Code Submitter\\FileWatcher.h",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-15T12:49:18.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileSearcher.cpp",
+              "DocumentMoniker": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\FileSearcher.cpp",
+              "RelativeDocumentMoniker": "Auto Code Submitter\\FileSearcher.cpp",
+              "ToolTip": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\FileSearcher.cpp",
+              "RelativeToolTip": "Auto Code Submitter\\FileSearcher.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T12:46:17.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileSearcher.h",
+              "DocumentMoniker": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\FileSearcher.h",
+              "RelativeDocumentMoniker": "Auto Code Submitter\\FileSearcher.h",
+              "ToolTip": "E:\\Auto Code Submitter\\Auto Code Submitter\\Auto Code Submitter\\FileSearcher.h",
+              "RelativeToolTip": "Auto Code Submitter\\FileSearcher.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-15T12:43:52.345Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
